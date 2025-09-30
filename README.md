@@ -46,6 +46,6 @@ This is a basic Streamlit app that uses **LangChain** and **OpenAI** to:
 ## ▶️ Usage
 Run the app locally with:
 ```bash
-streamlit run main.py
+streamlit run restaurant_generator.py
 
   
